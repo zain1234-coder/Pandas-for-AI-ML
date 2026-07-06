@@ -43,35 +43,58 @@ My goal is to build a professional learning repository that not only tracks my p
 
 ---
 
-## 🟡 Module 2 — Pandas DataFrames (In Progress)
+## 🟡 Module 2 — Pandas DataFrames 🚧 In Progress
 
 ### Topics Covered So Far
 
-- Introduction to DataFrames
-- Creating DataFrames
-  - Using Lists
-  - Using Dictionaries
-  - Reading CSV Files
-- DataFrame Attributes
-  - `shape`
-  - `dtypes`
-  - `index`
-  - `columns`
-  - `values`
-- Basic Inspection Methods
-  - `head()`
-  - `tail()`
+#### 📌 Creating DataFrames
+- Creating DataFrames from Lists
+- Creating DataFrames from Dictionaries
+- Reading CSV Files using `read_csv()`
 
-More DataFrame notebooks will be added as I continue learning.
+#### 📌 DataFrame Attributes & Inspection
+- `shape`
+- `dtypes`
+- `index`
+- `columns`
+- `values`
+- `head()`
+- `tail()`
+- `sample()`
+- `info()`
+- `describe()`
 
+#### 📌 Mathematical Operations
+- Statistical Functions
+- Column-wise Operations
+- Row-wise Operations
+- Using the `axis` parameter
+
+#### 📌 Data Selection
+- Selecting Columns
+- Selecting Rows using `iloc`
+- Selecting Rows using `loc`
+- Selecting Rows & Columns Together
+- 
+#### 📌 Data Filtering
+- Conditional Filtering
+- Filtering using Multiple Conditions
+
+#### 📌 Data Manipulation
+- Adding New Columns
+
+#### 📌 Practice
+- IPL Dataset Practice
+- Movies Dataset Practice
+- Team Win Tracker Function
+
+#### 📌 Important DataFrame Functions
+- Practical DataFrame Operations
 ---
-
-# 🚀 Coming Next
+  # 🚀 Coming Next
 
 The next notebooks will cover:
 
-- Selecting Rows & Columns
-- `loc` & `iloc`
 - Filtering Data
 - Adding, Removing & Renaming Columns
 - Missing Values
