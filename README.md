@@ -4,21 +4,23 @@
 
 ---
 
-## 📖 About This Repository
+# 📖 About This Repository
 
 Welcome! 👋
 
-This repository documents my learning journey with **Pandas**, one of the most essential Python libraries for Data Analysis, Data Science, and Machine Learning.
+This repository documents my journey of learning **Pandas**, one of the most powerful Python libraries for **Data Analysis, Data Science, and Machine Learning**.
 
-Instead of uploading everything at once after completing Pandas, I'm documenting my progress **module by module**. Every notebook in this repository represents concepts that I have learned, practiced, and understood.
+Rather than uploading everything after completing Pandas, I'm documenting my learning **step by step**. Every notebook represents concepts that I've learned, practiced, and understood.
 
-My goal is to build a well-organized learning repository that can also help other beginners who are starting their AI & Machine Learning journey.
+My goal is to build a professional learning repository that not only tracks my progress but also helps beginners who are following a similar AI & Machine Learning roadmap.
 
 ---
 
 # ✅ Current Progress
 
-### ✔ Completed
+## 🟢 Module 1 — Pandas Series ✅ Completed
+
+### Topics Covered
 
 - Introduction to Pandas
 - Understanding Pandas Series
@@ -36,40 +38,58 @@ My goal is to build a well-organized learning repository that can also help othe
   - `between()`
   - `clip()`
   - `drop_duplicates()`
-- Working with Practical Examples
-- Plotting Basics with Pandas
+- Practical Examples
+- Basic Plotting with Pandas
+
+---
+
+## 🟡 Module 2 — Pandas DataFrames (In Progress)
+
+### Topics Covered So Far
+
+- Introduction to DataFrames
+- Creating DataFrames
+  - Using Lists
+  - Using Dictionaries
+  - Reading CSV Files
+- DataFrame Attributes
+  - `shape`
+  - `dtypes`
+  - `index`
+  - `columns`
+  - `values`
+- Basic Inspection Methods
+  - `head()`
+  - `tail()`
+
+More DataFrame notebooks will be added as I continue learning.
 
 ---
 
 # 🚀 Coming Next
 
-I'm currently moving to the next and most important Pandas module:
+The next notebooks will cover:
 
-## 📊 Pandas DataFrames
-
-The upcoming notebooks will cover topics such as:
-
-- Creating DataFrames
 - Selecting Rows & Columns
-- loc & iloc
+- `loc` & `iloc`
 - Filtering Data
-- Adding & Removing Columns
-- Sorting
+- Adding, Removing & Renaming Columns
 - Missing Values
+- Sorting
 - Data Cleaning
 - GroupBy
 - Merge & Join
 - Pivot Tables
-- File Handling (CSV, Excel)
+- Working with Excel & CSV Files
 - Real-world Data Analysis
 
-📌 **New notebooks will be uploaded to this repository as soon as each topic is completed.**
+📌 **New notebooks will be uploaded to this repository immediately after each topic is completed.**
 
 ---
 
 # 📂 Repository Structure
 
-```
+```text
 Pandas-for-AI-ML/
 
 │
@@ -77,37 +97,27 @@ Pandas-for-AI-ML/
 │   ├── 01_pandas_series.ipynb
 │   └── 02_pandas_imp_series_methods.ipynb
 │
+├── 02_Pandas_DataFrames/
+│   └── 03_pandas_DF.ipynb
+│
 ├── README.md
 └── (More notebooks coming soon...)
 ```
 
 ---
 
-# 🎯 Learning Goal
-
-This repository is part of my roadmap to becoming an **AI & Machine Learning Engineer**.
-
-Every notebook focuses on:
-
-- Learning concepts
-- Writing clean code
-- Hands-on practice
-- Building strong fundamentals
-- Maintaining consistent daily progress
-
----
-
-# 📈 Repository Status
+# 📈 Repository Progress
 
 | Module | Status |
 |---------|--------|
 | Pandas Series | ✅ Completed |
-| Pandas DataFrames | 🔄 Coming Next |
+| DataFrame Fundamentals | 🚧 In Progress |
+| Data Selection & Filtering | ⏳ Coming Soon |
 | Data Cleaning | ⏳ Coming Soon |
 | GroupBy | ⏳ Coming Soon |
 | Merge & Join | ⏳ Coming Soon |
 | Pivot Tables | ⏳ Coming Soon |
-| Real-world Projects | ⏳ Coming Soon |
+| Real-world Data Analysis | ⏳ Coming Soon |
 
 ---
 
@@ -120,15 +130,27 @@ Every notebook focuses on:
 
 ---
 
+# 🎯 Learning Goal
+
+This repository is part of my roadmap to becoming an **AI & Machine Learning Engineer**.
+
+Every notebook focuses on:
+
+- Building strong fundamentals
+- Writing clean and readable code
+- Hands-on practice
+- Learning through real datasets
+- Sharing consistent progress on GitHub
+
+---
+
 # 🤝 Connect With Me
 
-If you'd like to follow my AI & Machine Learning journey, connect with me on LinkedIn.
+📌 **LinkedIn**
+> https://www.linkedin.com/in/zainashraf01/
 
-### LinkedIn
-https://www.linkedin.com/in/zainashraf01/
-
-### GitHub
-https://github.com/zain1234-coder
+📌 **GitHub**
+> https://github.com/zain1234-coder
 
 ---
 
@@ -136,10 +158,10 @@ https://github.com/zain1234-coder
 
 If you find this repository helpful, consider giving it a ⭐.
 
-Your support motivates me to continue sharing my learning journey and building high-quality educational repositories.
+Your support motivates me to continue learning, improving, and sharing high-quality educational content.
 
 ---
 
-## 🚀 Learning. Practicing. Building. Sharing.
+## 🚀 Learning • Practicing • Building • Sharing
 
-**One notebook at a time.**
+**One notebook today. One step closer to becoming an AI & Machine Learning Engineer.**
