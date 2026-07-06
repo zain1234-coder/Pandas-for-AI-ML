@@ -134,8 +134,8 @@ Pandas-for-AI-ML/
 | Module | Status |
 |---------|--------|
 | Pandas Series | ✅ Completed |
-| DataFrame Fundamentals | 🚧 In Progress |
-| Data Selection & Filtering | ⏳ Coming Soon |
+| DataFrame Fundamentals | ✅ Complete |
+| Data Selection & Filtering | 🚧 In Progress  |
 | Data Cleaning | ⏳ Coming Soon |
 | GroupBy | ⏳ Coming Soon |
 | Merge & Join | ⏳ Coming Soon |
