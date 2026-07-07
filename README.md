@@ -34,7 +34,8 @@ Pandas-for-AI-ML/
 │
 ├── 02_Pandas_DataFrames/
 │   └── 03_pandas_DF.ipynb
-│
+│   └── 04_Imp_Methods_DF
+│  
 ├── README.md
 └── (More notebooks coming soon...)
 ```
