@@ -35,7 +35,7 @@ Pandas-for-AI-ML/
 ├── 02_Pandas_DataFrames/
 │   └── 03_pandas_DF.ipynb
 │   └── 04_Imp_Methods_DF
-│  
+│   └── 05_pandas_groupby.ipynb
 ├── README.md
 └── (More notebooks coming soon...)
 ```
@@ -48,9 +48,9 @@ Pandas-for-AI-ML/
 |---------|--------|
 | Pandas Series | ✅ Completed |
 | DataFrame Fundamentals | ✅ Complete |
-| Data Selection & Filtering | 🚧 In Progress  |
-| Data Cleaning | ⏳ Coming Soon |
-| GroupBy | ⏳ Coming Soon |
+| Data Selection & Filtering | ✅ Complete  |
+| GroupBy | ✅ Complete|
+| Data Cleaning | ✅ Complete |
 | Merge & Join | ⏳ Coming Soon |
 | Pivot Tables | ⏳ Coming Soon |
 | Real-world Data Analysis | ⏳ Coming Soon |
