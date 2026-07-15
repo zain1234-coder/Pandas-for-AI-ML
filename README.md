@@ -38,9 +38,13 @@ Pandas-for-AI-ML/
 │   └── 05_pandas_groupby.ipynb
 │   └── 06_pandas_merging_joining_Conct.ipynb
 │   └── 07_Multi_index_obj.ipynb
+│   └── 08_Pandas_piviot_table.ipynb
+│   └── 09_pandas_vec_string.ipynb
+│   └── 10_pandas_date_time.ipynb
+
 │
-├── README.md
-└── (More notebooks coming soon...)
+│── README.md
+ 
 ```
 
 ---
@@ -56,9 +60,9 @@ Pandas-for-AI-ML/
 | Data Cleaning | ✅ Complete |
 | Merge & Join | ✅ Complete |
 | MultiIndex Objects | ✅ Complete |
-| Pivot Tables | ⏳ Coming Soon |
-| Real-world Data Analysis | ⏳ Coming Soon |
-
+| Pivot Tables | ✅ Complete|
+| Vectorized Str Operation | ✅ Complete|
+| Datetime Functions | ✅ Complete|
 ---
 
 # 💻 Technologies Used
@@ -102,6 +106,3 @@ Your support motivates me to continue learning, improving, and sharing high-qual
 
 ---
 
-## 🚀 Learning • Practicing • Building • Sharing
-
-**One notebook today. One step closer to becoming an AI & Machine Learning Engineer.**
